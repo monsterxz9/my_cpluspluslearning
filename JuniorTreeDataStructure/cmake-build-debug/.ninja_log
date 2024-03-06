@@ -1,0 +1,18 @@
+# ninja log v5
+64	148	7249333631480801	csv.exe	555f5118f8fe5a9f
+1	113	7250154767966291	build.ninja	4e64496e1d1c2c05
+65	151	7249333173450816	s.exe	5bf857cfa361b191
+79	173	7249600077105236	CountBinaryTrees.exe	e10e3e6efdc27ce7
+61	143	7249333862367219	asndoj.exe	1266c6a18d8c3bad
+2	78	7249600076205242	CMakeFiles/CountBinaryTrees.dir/CountBinaryTrees.c.obj	babd95053cce40eb
+77	163	7249590837948205	InOrderTraversal.exe	197daa74d2fc92ec
+70	158	7249337975869193	dp.exe	7df5bcd65cb7331e
+75	159	7249407183602670	BinaryTree.exe	576d4d7feeaedea3
+2	76	7249590837118160	CMakeFiles/InOrderTraversal.dir/InOrderTraversal.c.obj	3ce4d52f691f4f9e
+96	191	7249536886848485	InOrderTraversal1.exe	4b1dcf0c66bc07a2
+2	77	7249591577815448	CMakeFiles/postOrderTraversal.dir/postOrderTraversal.c.obj	441b9acae667b58e
+77	160	7249591578615429	postOrderTraversal.exe	9f2d5bfaada97700
+2	78	7249591263018098	CMakeFiles/levelOrderTraversal.dir/levelOrderTraversal.c.obj	493e5a1b2069d796
+79	166	7249591263858121	levelOrderTraversal.exe	1bd35a734374fb72
+1	74	7249590603461765	CMakeFiles/preOrderTraversal.dir/preOrderTraversal.c.obj	8e6943a262583bf7
+75	157	7249590604261741	preOrderTraversal.exe	57b12ec18ba245f3

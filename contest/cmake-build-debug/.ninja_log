@@ -1,0 +1,10 @@
+# ninja log v5
+3	638	7281390680463826	CMakeFiles/contest.dir/Plus-MinusSplit.cpp.obj	465efb898c35546f
+11	70	7281388238797418	CMakeFiles/contest.dir/Plus-MinusSplit.c.obj	91c8ea3f5d09b0d7
+1	314	7281534716659361	build.ninja	7789dc454107b896
+1	167	7281475345816388	CMakeFiles/WalletChange.dir/WalletChange.c.obj	7584418f15377084
+1	109	7262586816437866	CMakeFiles/contest.dir/main.c.obj	39343f771dbdf834
+7	119	7281388239298281	CMakeFiles/contest.dir/WalletChange.c.obj	6c64295442d6b47
+276	561	7270839971185358	contest.exe	7cdcb4f41e859273
+7	646	7281390680543828	CMakeFiles/contest.dir/addTwoNumbers.cpp.obj	6df7dca0e80c9fad
+168	378	7281475347872775	WalletChange.exe	4431d0c482866289

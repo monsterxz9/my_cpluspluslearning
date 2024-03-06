@@ -1,0 +1,3 @@
+C:/Users/Mark Tween/CLionProjects/23standardcpp/cmake-build-debug/CMakeFiles/23standardcpp.dir
+C:/Users/Mark Tween/CLionProjects/23standardcpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mark Tween/CLionProjects/23standardcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

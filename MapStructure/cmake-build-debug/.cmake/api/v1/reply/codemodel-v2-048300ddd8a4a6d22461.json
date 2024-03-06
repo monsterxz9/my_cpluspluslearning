@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MapStructure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BreadthFirstSearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BreadthFirstSearch-Debug-9b97fc1e1d791f4c8753.json",
+					"name" : "BreadthFirstSearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DepthFirstSearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DepthFirstSearch-Debug-5750d88eef8daf1118a6.json",
+					"name" : "DepthFirstSearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Floyd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Floyd-Debug-088aa9ef97e0a6d486f7.json",
+					"name" : "Floyd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MapStructure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MapStructure-Debug-b1241f2e312e43387f1c.json",
+					"name" : "MapStructure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adjacencyList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adjacencyList-Debug-61875059d05a76d5d399.json",
+					"name" : "adjacencyList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "adjacencyMatrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-adjacencyMatrix-Debug-bf2ff4f93ba2cf8f4c53.json",
+					"name" : "adjacencyMatrix",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mark Tween/CLionProjects/MapStructure/cmake-build-debug",
+		"source" : "C:/Users/Mark Tween/CLionProjects/MapStructure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
