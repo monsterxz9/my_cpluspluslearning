@@ -1,0 +1,122 @@
+[
+{
+  "directory": "E:/Program/hello algo/build/include",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/include.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\include.dir\\include_test.c.obj -c \"E:\\Program\\hello algo\\include\\include_test.c\"",
+  "file": "E:/Program/hello algo/include/include_test.c",
+  "output": "include/CMakeFiles/include.dir/include_test.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_computational_complexity",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/time_complexity.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\time_complexity.dir\\time_complexity.c.obj -c \"E:\\Program\\hello algo\\chapter_computational_complexity\\time_complexity.c\"",
+  "file": "E:/Program/hello algo/chapter_computational_complexity/time_complexity.c",
+  "output": "chapter_computational_complexity/CMakeFiles/time_complexity.dir/time_complexity.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_computational_complexity",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/worst_best_time_complexity.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\worst_best_time_complexity.dir\\worst_best_time_complexity.c.obj -c \"E:\\Program\\hello algo\\chapter_computational_complexity\\worst_best_time_complexity.c\"",
+  "file": "E:/Program/hello algo/chapter_computational_complexity/worst_best_time_complexity.c",
+  "output": "chapter_computational_complexity/CMakeFiles/worst_best_time_complexity.dir/worst_best_time_complexity.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_computational_complexity",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/leetcode_two_sum.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\leetcode_two_sum.dir\\leetcode_two_sum.c.obj -c \"E:\\Program\\hello algo\\chapter_computational_complexity\\leetcode_two_sum.c\"",
+  "file": "E:/Program/hello algo/chapter_computational_complexity/leetcode_two_sum.c",
+  "output": "chapter_computational_complexity/CMakeFiles/leetcode_two_sum.dir/leetcode_two_sum.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_array_and_linkedlist",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/array.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\array.dir\\array.c.obj -c \"E:\\Program\\hello algo\\chapter_array_and_linkedlist\\array.c\"",
+  "file": "E:/Program/hello algo/chapter_array_and_linkedlist/array.c",
+  "output": "chapter_array_and_linkedlist/CMakeFiles/array.dir/array.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_array_and_linkedlist",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/linked_list.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\linked_list.dir\\linked_list.c.obj -c \"E:\\Program\\hello algo\\chapter_array_and_linkedlist\\linked_list.c\"",
+  "file": "E:/Program/hello algo/chapter_array_and_linkedlist/linked_list.c",
+  "output": "chapter_array_and_linkedlist/CMakeFiles/linked_list.dir/linked_list.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_array_and_linkedlist",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/my_list.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\my_list.dir\\my_list.c.obj -c \"E:\\Program\\hello algo\\chapter_array_and_linkedlist\\my_list.c\"",
+  "file": "E:/Program/hello algo/chapter_array_and_linkedlist/my_list.c",
+  "output": "chapter_array_and_linkedlist/CMakeFiles/my_list.dir/my_list.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_sorting",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/bubble_sort.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\bubble_sort.dir\\bubble_sort.c.obj -c \"E:\\Program\\hello algo\\chapter_sorting\\bubble_sort.c\"",
+  "file": "E:/Program/hello algo/chapter_sorting/bubble_sort.c",
+  "output": "chapter_sorting/CMakeFiles/bubble_sort.dir/bubble_sort.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_sorting",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/insertion_sort.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\insertion_sort.dir\\insertion_sort.c.obj -c \"E:\\Program\\hello algo\\chapter_sorting\\insertion_sort.c\"",
+  "file": "E:/Program/hello algo/chapter_sorting/insertion_sort.c",
+  "output": "chapter_sorting/CMakeFiles/insertion_sort.dir/insertion_sort.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_sorting",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/quick_sort.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\quick_sort.dir\\quick_sort.c.obj -c \"E:\\Program\\hello algo\\chapter_sorting\\quick_sort.c\"",
+  "file": "E:/Program/hello algo/chapter_sorting/quick_sort.c",
+  "output": "chapter_sorting/CMakeFiles/quick_sort.dir/quick_sort.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_sorting",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/radix_sort.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\radix_sort.dir\\radix_sort.c.obj -c \"E:\\Program\\hello algo\\chapter_sorting\\radix_sort.c\"",
+  "file": "E:/Program/hello algo/chapter_sorting/radix_sort.c",
+  "output": "chapter_sorting/CMakeFiles/radix_sort.dir/radix_sort.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_tree",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/avl_tree.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\avl_tree.dir\\avl_tree.c.obj -c \"E:\\Program\\hello algo\\chapter_tree\\avl_tree.c\"",
+  "file": "E:/Program/hello algo/chapter_tree/avl_tree.c",
+  "output": "chapter_tree/CMakeFiles/avl_tree.dir/avl_tree.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_tree",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/binary_search.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\binary_search.dir\\binary_tree.c.obj -c \"E:\\Program\\hello algo\\chapter_tree\\binary_tree.c\"",
+  "file": "E:/Program/hello algo/chapter_tree/binary_tree.c",
+  "output": "chapter_tree/CMakeFiles/binary_search.dir/binary_tree.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_tree",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/binary_tree_bfs.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\binary_tree_bfs.dir\\binary_tree_bfs.c.obj -c \"E:\\Program\\hello algo\\chapter_tree\\binary_tree_bfs.c\"",
+  "file": "E:/Program/hello algo/chapter_tree/binary_tree_bfs.c",
+  "output": "chapter_tree/CMakeFiles/binary_tree_bfs.dir/binary_tree_bfs.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_tree",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/binary_tree_dfs.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\binary_tree_dfs.dir\\binary_tree_dfs.c.obj -c \"E:\\Program\\hello algo\\chapter_tree\\binary_tree_dfs.c\"",
+  "file": "E:/Program/hello algo/chapter_tree/binary_tree_dfs.c",
+  "output": "chapter_tree/CMakeFiles/binary_tree_dfs.dir/binary_tree_dfs.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_tree",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/binary_search_tree.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\binary_search_tree.dir\\binary_search_tree.c.obj -c \"E:\\Program\\hello algo\\chapter_tree\\binary_search_tree.c\"",
+  "file": "E:/Program/hello algo/chapter_tree/binary_search_tree.c",
+  "output": "chapter_tree/CMakeFiles/binary_search_tree.dir/binary_search_tree.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_stack_and_queue",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/array_stack.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\array_stack.dir\\array_stack.c.obj -c \"E:\\Program\\hello algo\\chapter_stack_and_queue\\array_stack.c\"",
+  "file": "E:/Program/hello algo/chapter_stack_and_queue/array_stack.c",
+  "output": "chapter_stack_and_queue/CMakeFiles/array_stack.dir/array_stack.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_stack_and_queue",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/linkedlist_stack.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\linkedlist_stack.dir\\linkedlist_stack.c.obj -c \"E:\\Program\\hello algo\\chapter_stack_and_queue\\linkedlist_stack.c\"",
+  "file": "E:/Program/hello algo/chapter_stack_and_queue/linkedlist_stack.c",
+  "output": "chapter_stack_and_queue/CMakeFiles/linkedlist_stack.dir/linkedlist_stack.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_stack_and_queue",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/array_queue.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\array_queue.dir\\array_queue.c.obj -c \"E:\\Program\\hello algo\\chapter_stack_and_queue\\array_queue.c\"",
+  "file": "E:/Program/hello algo/chapter_stack_and_queue/array_queue.c",
+  "output": "chapter_stack_and_queue/CMakeFiles/array_queue.dir/array_queue.c.obj"
+},
+{
+  "directory": "E:/Program/hello algo/build/chapter_heap",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/my_heap.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\my_heap.dir\\my_heap.c.obj -c \"E:\\Program\\hello algo\\chapter_heap\\my_heap.c\"",
+  "file": "E:/Program/hello algo/chapter_heap/my_heap.c",
+  "output": "chapter_heap/CMakeFiles/my_heap.dir/my_heap.c.obj"
+}
+]

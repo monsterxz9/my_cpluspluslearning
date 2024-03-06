@@ -1,0 +1,343 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "include",
+					"jsonFile" : "directory-include-Debug-d173e0f0f2f3c2971879.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "chapter_computational_complexity",
+					"jsonFile" : "directory-chapter_computational_complexity-Debug-0f8f0bec0fb6b304fe13.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_computational_complexity",
+					"targetIndexes" : 
+					[
+						11,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "chapter_array_and_linkedlist",
+					"jsonFile" : "directory-chapter_array_and_linkedlist-Debug-8370a27b341d5eca1aaf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_array_and_linkedlist",
+					"targetIndexes" : 
+					[
+						0,
+						12,
+						15
+					]
+				},
+				{
+					"build" : "chapter_sorting",
+					"jsonFile" : "directory-chapter_sorting-Debug-318cd1aa987f01a0a57f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_sorting",
+					"targetIndexes" : 
+					[
+						8,
+						10,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "chapter_tree",
+					"jsonFile" : "directory-chapter_tree-Debug-baa187459e442f201069.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_tree",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "chapter_stack_and_queue",
+					"jsonFile" : "directory-chapter_stack_and_queue-Debug-935f2e55e7ad6b47b7fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_stack_and_queue",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						13
+					]
+				},
+				{
+					"build" : "chapter_heap",
+					"jsonFile" : "directory-chapter_heap-Debug-25a1145ee2f81164b44b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_heap",
+					"targetIndexes" : 
+					[
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "hello_algo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "array::@d43f04de9aad078b8594",
+					"jsonFile" : "target-array-Debug-462b11011ce0f8f99e6b.json",
+					"name" : "array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "array_queue::@d450018e761e27c8619c",
+					"jsonFile" : "target-array_queue-Debug-1a4c294bddad7d65d525.json",
+					"name" : "array_queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "array_stack::@d450018e761e27c8619c",
+					"jsonFile" : "target-array_stack-Debug-02c3c6ac2928185aa5b5.json",
+					"name" : "array_stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "avl_tree::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-avl_tree-Debug-98991f2ff9577bd03990.json",
+					"name" : "avl_tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_search::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_search-Debug-641f2fa7c38e219f05f6.json",
+					"name" : "binary_search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_search_tree::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_search_tree-Debug-57ab8c2fef386ce700e6.json",
+					"name" : "binary_search_tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_tree_bfs::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_tree_bfs-Debug-1716a20bb560a683f4e4.json",
+					"name" : "binary_tree_bfs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_tree_dfs::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_tree_dfs-Debug-4b72f3b7c731f355da70.json",
+					"name" : "binary_tree_dfs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "bubble_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-bubble_sort-Debug-4bbd0439c4177285daac.json",
+					"name" : "bubble_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "include::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-include-Debug-46b27367c815296305da.json",
+					"name" : "include",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "insertion_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-insertion_sort-Debug-0b3697454bea2dbb6531.json",
+					"name" : "insertion_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "leetcode_two_sum::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-leetcode_two_sum-Debug-b9b72d4c6951a752dc6f.json",
+					"name" : "leetcode_two_sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "linked_list::@d43f04de9aad078b8594",
+					"jsonFile" : "target-linked_list-Debug-b48c908d2c3e3c2dcd8e.json",
+					"name" : "linked_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "linkedlist_stack::@d450018e761e27c8619c",
+					"jsonFile" : "target-linkedlist_stack-Debug-ec82d9d0b961723642e0.json",
+					"name" : "linkedlist_stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "my_heap::@0a62373d2c9bfd5ec06a",
+					"jsonFile" : "target-my_heap-Debug-80b89f00a20312075964.json",
+					"name" : "my_heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "my_list::@d43f04de9aad078b8594",
+					"jsonFile" : "target-my_list-Debug-d6df47b919dde97db498.json",
+					"name" : "my_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "quick_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-quick_sort-Debug-8dd3564c74af4d9ef2f3.json",
+					"name" : "quick_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "radix_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-radix_sort-Debug-2469aa5b79c094446615.json",
+					"name" : "radix_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "time_complexity::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-time_complexity-Debug-15d8705f8cd36df73d1a.json",
+					"name" : "time_complexity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "worst_best_time_complexity::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-worst_best_time_complexity-Debug-e803b341c4463b0c3499.json",
+					"name" : "worst_best_time_complexity",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Program/hello algo/build",
+		"source" : "E:/Program/hello algo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

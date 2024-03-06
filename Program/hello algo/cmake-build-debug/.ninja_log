@@ -1,0 +1,23 @@
+# ninja log v5
+0	153	7242667408273504	chapter_tree/CMakeFiles/binary_tree_dfs.dir/binary_tree_dfs.c.obj	901497aac880dce9
+110	201	7242676291170759	chapter_tree/avl_tree.exe	50c946fc2fc4a3bd
+161	294	7242667409665780	chapter_tree/binary_tree_dfs.exe	26ebc364aa479a7c
+2	110	7242676290275570	chapter_tree/CMakeFiles/avl_tree.dir/avl_tree.c.obj	bc1e2b07246c8f65
+2	95	7242677076022934	chapter_sorting/CMakeFiles/insertion_sort.dir/insertion_sort.c.obj	23f19c6a3f9355f5
+95	186	7242677076888105	chapter_sorting/insertion_sort.exe	47327ca48b40ae80
+0	96	7260042686388920	include/CMakeFiles/include.dir/include_test.c.obj	632fdfaf3c698027
+96	204	7260042687447066	include/include.exe	7a67fc3b38f20286
+1	94	7260042792471009	chapter_tree/CMakeFiles/binary_tree_bfs.dir/binary_tree_bfs.c.obj	de059aa0d7e6e047
+95	181	7260042793315848	chapter_tree/binary_tree_bfs.exe	3d52c6c22a9bf611
+0	101	7260043123958701	chapter_stack_and_queue/CMakeFiles/array_queue.dir/array_queue.c.obj	8054d422069275dc
+102	188	7260043124795429	chapter_stack_and_queue/array_queue.exe	f15392c7cb6da900
+0	96	7260043416444762	chapter_array_and_linkedlist/CMakeFiles/array.dir/array.c.obj	410dbf7767bc27ef
+96	184	7260043417296976	chapter_array_and_linkedlist/array.exe	28f8ec1e4a2ee183
+2	93	7260043683899054	chapter_array_and_linkedlist/CMakeFiles/array.dir/array.c.obj	410dbf7767bc27ef
+93	177	7260043684706329	chapter_array_and_linkedlist/array.exe	28f8ec1e4a2ee183
+2	92	7260044017744400	chapter_array_and_linkedlist/CMakeFiles/array.dir/array.c.obj	410dbf7767bc27ef
+93	178	7260044018569274	chapter_array_and_linkedlist/array.exe	28f8ec1e4a2ee183
+2	87	7260045042678048	include/CMakeFiles/include.dir/include_test.c.obj	632fdfaf3c698027
+87	185	7260045043640498	include/include.exe	7a67fc3b38f20286
+2	91	7260045311550037	include/CMakeFiles/include.dir/include_test.c.obj	632fdfaf3c698027
+91	176	7260045312383443	include/include.exe	7a67fc3b38f20286

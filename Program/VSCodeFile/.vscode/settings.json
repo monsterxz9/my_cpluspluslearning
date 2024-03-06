@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "algorithm": "c",
+        "iterator": "c",
+        "xmemory": "c",
+        "xutility": "c",
+        "ostream": "c",
+        "stdio.h": "c",
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "random": "c",
+        "include.h": "c"
+    }
+}

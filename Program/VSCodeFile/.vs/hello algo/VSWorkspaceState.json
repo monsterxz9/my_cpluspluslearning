@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "hello algo\\out\\build\\x64-Debug",
+      "hello algo\\out\\install\\x64-Debug"
+    ]
+  }
+}

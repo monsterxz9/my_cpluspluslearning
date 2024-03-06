@@ -1,0 +1,343 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "include",
+					"jsonFile" : "directory-include-Debug-d173e0f0f2f3c2971879.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "chapter_computational_complexity",
+					"jsonFile" : "directory-chapter_computational_complexity-Debug-0f8f0bec0fb6b304fe13.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_computational_complexity",
+					"targetIndexes" : 
+					[
+						11,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "chapter_array_and_linkedlist",
+					"jsonFile" : "directory-chapter_array_and_linkedlist-Debug-8370a27b341d5eca1aaf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_array_and_linkedlist",
+					"targetIndexes" : 
+					[
+						0,
+						12,
+						15
+					]
+				},
+				{
+					"build" : "chapter_sorting",
+					"jsonFile" : "directory-chapter_sorting-Debug-318cd1aa987f01a0a57f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_sorting",
+					"targetIndexes" : 
+					[
+						8,
+						10,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "chapter_tree",
+					"jsonFile" : "directory-chapter_tree-Debug-baa187459e442f201069.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_tree",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				},
+				{
+					"build" : "chapter_stack_and_queue",
+					"jsonFile" : "directory-chapter_stack_and_queue-Debug-935f2e55e7ad6b47b7fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_stack_and_queue",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						13
+					]
+				},
+				{
+					"build" : "chapter_heap",
+					"jsonFile" : "directory-chapter_heap-Debug-25a1145ee2f81164b44b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "chapter_heap",
+					"targetIndexes" : 
+					[
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "hello_algo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "array::@d43f04de9aad078b8594",
+					"jsonFile" : "target-array-Debug-8deb9fdd4c60cdc55ead.json",
+					"name" : "array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "array_queue::@d450018e761e27c8619c",
+					"jsonFile" : "target-array_queue-Debug-c0bad2b8cb642d594549.json",
+					"name" : "array_queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "array_stack::@d450018e761e27c8619c",
+					"jsonFile" : "target-array_stack-Debug-3d2aa8e6d7a664c07aa6.json",
+					"name" : "array_stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "avl_tree::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-avl_tree-Debug-bb68d56bcc0f763201e1.json",
+					"name" : "avl_tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_search::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_search-Debug-a29f7397c7d7757daf15.json",
+					"name" : "binary_search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_search_tree::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_search_tree-Debug-705bfc9d037ac8882658.json",
+					"name" : "binary_search_tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_tree_bfs::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_tree_bfs-Debug-e4ff40197a41310392e2.json",
+					"name" : "binary_tree_bfs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "binary_tree_dfs::@904335b6e096d12d3ab4",
+					"jsonFile" : "target-binary_tree_dfs-Debug-3473c6f86c13bcbef76f.json",
+					"name" : "binary_tree_dfs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "bubble_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-bubble_sort-Debug-94283a1d9775e6909cff.json",
+					"name" : "bubble_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "include::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-include-Debug-47949462ccea18db0778.json",
+					"name" : "include",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "insertion_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-insertion_sort-Debug-33263f288005a3c4f23e.json",
+					"name" : "insertion_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "leetcode_two_sum::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-leetcode_two_sum-Debug-ad7f692ba1482408758b.json",
+					"name" : "leetcode_two_sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "linked_list::@d43f04de9aad078b8594",
+					"jsonFile" : "target-linked_list-Debug-5377f3bf02ffc9beb46b.json",
+					"name" : "linked_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "linkedlist_stack::@d450018e761e27c8619c",
+					"jsonFile" : "target-linkedlist_stack-Debug-d1208220fd93452669e1.json",
+					"name" : "linkedlist_stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "my_heap::@0a62373d2c9bfd5ec06a",
+					"jsonFile" : "target-my_heap-Debug-604ce8bd9ab352f52894.json",
+					"name" : "my_heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "my_list::@d43f04de9aad078b8594",
+					"jsonFile" : "target-my_list-Debug-7d6e26a51f195ff12e54.json",
+					"name" : "my_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "quick_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-quick_sort-Debug-565422ec90b0c51842c7.json",
+					"name" : "quick_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "radix_sort::@caa404a9ef27f7c76fe1",
+					"jsonFile" : "target-radix_sort-Debug-642c971ee2891db414d9.json",
+					"name" : "radix_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "time_complexity::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-time_complexity-Debug-d22258b68e0c2c698f4d.json",
+					"name" : "time_complexity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "worst_best_time_complexity::@9d9ca4118293fc485c50",
+					"jsonFile" : "target-worst_best_time_complexity-Debug-12772f0ac730d0984967.json",
+					"name" : "worst_best_time_complexity",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/program/Dev C++ \u6587\u4ef6/hello algo/out/build/x64-Debug",
+		"source" : "E:/program/Dev C++ \u6587\u4ef6/hello algo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

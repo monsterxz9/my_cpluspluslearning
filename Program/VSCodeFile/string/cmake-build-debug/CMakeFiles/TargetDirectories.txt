@@ -1,0 +1,10 @@
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/string.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/CaesarCipher.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/MentalArithmeticExercise.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/autoCorrect.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/countTitle.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/countWords.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/stupidMonkey.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/wordProcess.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Program/VSCodeFile/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\include.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\include.dir/objects.a @CMakeFiles\include.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\include.dir/objects.a -Wl,--no-whole-archive -o include.exe -Wl,--out-implib,libinclude.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\include.dir\linkLibs.rsp

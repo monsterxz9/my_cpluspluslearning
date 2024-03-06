@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chapter_array_and_linkedlist/array.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/chapter_sorting/insertion_sort.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/chapter_tree/avl_tree.c" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/chapter_tree/binary_tree_dfs.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/include_test.c" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

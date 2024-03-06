@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "string",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CaesarCipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CaesarCipher-Debug-260264595b3653ff507c.json",
+					"name" : "CaesarCipher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MentalArithmeticExercise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MentalArithmeticExercise-Debug-43f67378e8f1efb6b223.json",
+					"name" : "MentalArithmeticExercise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "autoCorrect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-autoCorrect-Debug-6ba1d3105cd508a90f8f.json",
+					"name" : "autoCorrect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "countTitle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-countTitle-Debug-276b934396b59fabde63.json",
+					"name" : "countTitle",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "countWords::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-countWords-Debug-235bf36f5309e7c1db37.json",
+					"name" : "countWords",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-Debug-6e7be5064c7d8b5084d9.json",
+					"name" : "string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stupidMonkey::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stupidMonkey-Debug-7367542ddebc8508629f.json",
+					"name" : "stupidMonkey",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wordProcess::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wordProcess-Debug-984211e352a97391b090.json",
+					"name" : "wordProcess",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Program/VSCodeFile/string/cmake-build-debug",
+		"source" : "E:/Program/VSCodeFile/string"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
