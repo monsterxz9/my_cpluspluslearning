@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\tabletennis.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\tabletennis.dir/objects.a @CMakeFiles\tabletennis.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\tabletennis.dir/objects.a -Wl,--no-whole-archive -o tabletennis.exe -Wl,--out-implib,libtabletennis.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tabletennis.dir\linkLibs.rsp

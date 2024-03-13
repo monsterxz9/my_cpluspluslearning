@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/Mark Tween/CLionProjects/untitled2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\untitled2.dir\\main.cpp.obj -c \"C:\\Users\\Mark Tween\\CLionProjects\\untitled2\\main.cpp\"",
-  "file": "C:/Users/Mark Tween/CLionProjects/untitled2/main.cpp",
-  "output": "CMakeFiles/untitled2.dir/main.cpp.obj"
-}
-]

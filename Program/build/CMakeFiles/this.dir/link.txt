@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\this.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\this.dir/objects.a @CMakeFiles\this.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\this.dir/objects.a -Wl,--no-whole-archive -o this.exe -Wl,--out-implib,libthis.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\this.dir\linkLibs.rsp

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "E:/Program/C++/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\C++.dir\\main.cpp.obj -c E:\\Program\\C++\\main.cpp",
-  "file": "E:/Program/C++/main.cpp",
-  "output": "CMakeFiles/C++.dir/main.cpp.obj"
-}
-]
