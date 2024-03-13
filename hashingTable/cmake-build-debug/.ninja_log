@@ -1,8 +1,0 @@
-# ninja log v5
-2	154	7252754460904539	CMakeFiles/hashingTable.dir/main.c.obj	47dd5b3aa03880d7
-1	104	7252786579897182	build.ninja	f81d7d0e76ecc72e
-68	155	7252768688083799	hashingTable.exe	c9e83c316aaaf027
-2	64	7252768754886749	CMakeFiles/hashingTable.dir/SeparateChaining.c.obj	ed10c0cbc32b8215
-2	80	7252762880140086	CMakeFiles/hashingTable.dir/hashtable.c.obj	11aaf9e17e9cde76
-2	72	7252773224503439	CMakeFiles/SeparateChaining.dir/SeparateChaining.c.obj	d6f845036780abed
-73	155	7252773225293432	SeparateChaining.exe	b18c980c2264916f

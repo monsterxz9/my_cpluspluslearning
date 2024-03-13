@@ -1,5 +1,0 @@
-C:/Users/Mark Tween/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/Sorting.dir
-C:/Users/Mark Tween/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/io.dir
-C:/Users/Mark Tween/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/Mark Tween/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mark Tween/CLionProjects/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/JuniorTreeDataStructure.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/CountBinaryTrees.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/InOrderTraversal.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/levelOrderTraversal.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/postOrderTraversal.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/preOrderTraversal.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mark Tween/CLionProjects/JuniorTreeDataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
