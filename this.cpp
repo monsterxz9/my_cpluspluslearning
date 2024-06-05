@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string>
 
+
 class Entity {
 public:
     void PrintEntity(const Entity &e) {
