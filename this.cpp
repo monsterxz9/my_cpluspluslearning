@@ -3,9 +3,6 @@
 //
 //Extremely worse code is like this.
 #include <iostream>
-#include <string>
-
-
 class Entity {
 public:
     void PrintEntity(const Entity &e) {
