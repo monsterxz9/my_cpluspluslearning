@@ -28,14 +28,5 @@
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-    std::cout<<"java script"<<std::endl;
-
     return 0;
 }
